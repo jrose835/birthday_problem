@@ -36,8 +36,6 @@ Here's the results:
 I'm still not done with this project. Here are some things I want to do next:
 
 To do:
- * Add to github
- * Finish readme
  * Fit a function
  * Iterate to "Same birthday as you", near matches, etc
     + https://en.wikipedia.org/wiki/Birthday_problem#Same_birthday_as_you
