@@ -33,6 +33,10 @@ Here's the results:
 
 ![Graph of Prob](https://raw.githubusercontent.com/jrose835/birthday_problem/master/birthday_dist.png)
 
+Any group larger than k~20 people will have a greater than 50% probability of sharing a birthday. And **after the group size (k) gets larger than say ~40 people the probability starts getting near 90%!**
+
+---
+
 I'm still not done with this project. Here are some things I want to do next:
 
 To do:
