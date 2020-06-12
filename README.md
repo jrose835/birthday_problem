@@ -27,6 +27,14 @@ We can calculate Prob(A) as a fraction of the total number of permutations in wh
 
 Being a bit slow in terms of my ability for internalizing probability theory I wanted to take a look at the outcomes of this problem in a more visual way, and it seemed clear that using R would be a great way to do so.
 
+Simulating a function of this probability distribution using birthday_sim.R was relatively simple, besides the fact that I had to define my own permutation function with a small workaround for such large numbers.
+
+Here's the results:
+
+![Graph of Prob](https://raw.githubusercontent.com/jrose835/birthday_problem/master/birthday_dist.png)
+
+I'm still not done with this project. Here are some things I want to do next:
+
 To do:
  * Add to github
  * Finish readme
